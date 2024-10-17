@@ -1,0 +1,20 @@
+header
+{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 300%;
+}
+
+main
+{
+    text-align: left;
+    background-color: bisque;
+    font-size: 300%;
+}
+
+footer
+{
+    font-size: 300%;
+    text-align: right;
+    background-color: rebeccapurple;
+}
